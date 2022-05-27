@@ -1,0 +1,22 @@
+id: DD699B6A4
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-07T13:48:02+00:00'
+last_modified: '2022-05-27T15:36:35.206920+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    8dfc:
+      image_group_id: I1PD95909
+      title: མདོ་སྡེའི་དོན་ཀུན་ལས་བཏུས་པའི་མན་ངག།
+      total_pages: 1902
+      order: 64
+      base_file: 8dfc.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
